@@ -1,0 +1,19 @@
+{
+  "name": "jot--",
+  "version": "0.0.0",
+  "description": "The single-character programming language!",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j201/jot--.git"
+  },
+  "keywords": [
+    "esolang",
+    "jot"
+  ],
+  "author": "j201 <j201.alex@gmail.com> (http://j201.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j201/jot--/issues"
+  }
+}
