@@ -13,3 +13,5 @@ jot__('aaaaaaaaaa'); // The I combinator!
 jot__('DESUDESUDESUDESUDESUDESUDESU'); // The K combinator!
 jot__("And again, the Internet is not something that you just dump something on. It's not a big truck. It's a series of tubes. And if you don't understand, those tubes can be filled and if they are filled, when you put your message in, it gets in line and"); // The S combinator!
 ```
+
+©2013 j201. Liscensed under the [MIT License](http://opensource.org/licenses/MIT).

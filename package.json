@@ -1,6 +1,6 @@
 {
   "name": "jot--",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The single-character programming language!",
   "main": "main.js",
   "repository": {
